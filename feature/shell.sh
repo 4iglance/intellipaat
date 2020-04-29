@@ -1,1 +1,4 @@
-echo "Git branching"
+for i in $(seq 0 5)
+do
+echo "Git branching $i"
+done
